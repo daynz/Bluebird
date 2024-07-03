@@ -1,0 +1,3 @@
+[submodule "Bluebird/3rdParty/spdlog"]
+	path = Bluebird/3rdParty/spdlog
+	url = https://github.com/gabime/spdlog
